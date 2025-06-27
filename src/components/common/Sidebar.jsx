@@ -19,7 +19,7 @@ const SIDEBAR_ITEMS = [
   { name: "Reports", icon: TrendingUp, color: "#3B82F6", href: "/analytics" },
   { name: "Create Test", icon: ClipboardEdit, color: "#F59E0B", href: "/createtest" },
   { name: "Settings", icon: Settings, color: "#6EE7B7", href: "/settings" },
-  { name: "logout", icon: LogOut, color: "#CBF2FF", href: "https://project-space-final-edition.vercel.app/" },
+  { name: "logout", icon: LogOut, color: "#CBF2FF", href: "https://project-final-version1.vercel.app/" },
 ];
 
 const Sidebar = () => {
